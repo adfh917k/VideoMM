@@ -27,7 +27,7 @@ To resolve this, we propose **VideoMM**, an adaptive macro-micro paradigm mimick
 
 All used benchmarks can be downloaded from huggingface website: [`LongVideoBench`](https://huggingface.co/datasets/longvideobench/LongVideoBench), [`VideoMME`](https://huggingface.co/datasets/lmms-lab/Video-MME), and [`LVBench`](https://huggingface.co/datasets/THUDM/LVBench).
 
-#### Prepare Data For VideoMME (LongVideoBench and LVBench 类似)
+#### Prepare Data For VideoMME (similar to LongVideoBench and LVBench)
 
 1. Download the videos.
 2. Unzip the videos
